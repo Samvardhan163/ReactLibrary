@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: 814466802add0d58dd4a975ea444515158a48f541e157d89f8e097c1f86d3a3b
+- filename: src/Component/BookRepo.jsx
+  checksum: 64d7892d9a0171b94df40e274cabdda6ae1e507e2e50ab70e715cbd3e43a207f
+version: ""
